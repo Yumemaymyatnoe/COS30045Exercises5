@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f9fa;
+}
+
+.chart-container {
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.bar {
+    fill: #1e7e34;
+}
+
+.line {
+    fill: none;
+    stroke: #28a745;
+    stroke-width: 2px;
+}
+
+.dot {
+    fill: #1e7e34;
+}
